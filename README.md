@@ -4,6 +4,7 @@ Modificacion del codigo fuente del YSF2DMR del Andy (CA6JAU).
 
 Instrucciones de ejecución:
 EN PRINCIPIO ES UN BIN, Y PARA PRUEBAS SOLAMENTE FUNCIONA EN LA IMAGEN PI-STAR.
+
 Para hacerlo funcionar ahi que darle propiedades de ejecucion:
 sudo chmod a+x YSF2DMR
 
