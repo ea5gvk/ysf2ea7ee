@@ -2,6 +2,14 @@
 Esto es autoria del amigo Manuel EA7EE.
 Modificacion del codigo fuente del YSF2DMR del Andy (CA6JAU).
 
+Instrucciones de ejecución:
+EN PRINCIPIO ES UN BIN, Y PARA PRUEBAS SOLAMENTE FUNCIONA EN LA IMAGEN PI-STAR.
+Para hacerlo funcionar ahi que darle propiedades de ejecucion:
+sudo chmod a+x YSF2DMR
+
+El archivo YSF2DMR.ini, en la imagen PI-STAR ha de estar en:
+/etc/YSF2DMR.ini
+
 Esta versión es un poco más complicada, sobre todo por el GPS. Envío un fichero de ejemplo con las secciones de APRS. 
 La clave de APRS-IS la podéis obtener aqui: https://apps.magicbug.co.uk/passcode/
 La APIKey de desarrollador es muy sencillo conseguirla, solo tenéis que registraros aqui: https://aprs.fi/page/api
